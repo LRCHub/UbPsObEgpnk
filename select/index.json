@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "Cult.",
-  "base_artist": "natori",
-  "createdAt": "2025-12-04T15:43:41.985559Z",
+  "base_artist": "なとり",
+  "createdAt": "2026-03-29T04:12:33.545769Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -117,12 +117,13 @@
       "path": "select/pl_01_Cult._なとり.txt"
     },
     {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
+      "id": "localdb_1",
+      "source": "localdb",
       "title": "Cult.",
       "artist": "なとり",
       "has_synced": false,
-      "path": "select/pl_02_Cult._なとり.txt"
+      "path": "select/localdb_01_Cult._なとり.txt",
+      "repo_name": "GQrppVgwz5o"
     }
   ]
 }
